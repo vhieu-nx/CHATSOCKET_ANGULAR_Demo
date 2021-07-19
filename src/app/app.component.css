@@ -1,0 +1,16 @@
+.message-from-me {
+  background-color: #4169e1;
+  color: white;
+  margin: 5px;
+  border-radius: 4px;
+}
+
+.chat-messages {
+  overflow: auto;
+}
+
+.emoji-mart {
+  position: fixed;
+  bottom: 130px;
+  right: 60px;
+}
